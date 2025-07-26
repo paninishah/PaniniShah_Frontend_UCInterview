@@ -1,6 +1,8 @@
 the signup and login pages are complete, and work correctly. 
 some of the elements in the landing page; i did not know now to implement
 
+https://paninishah.github.io/PaniniShah_Frontend_UCInterview/task1/ 
+
 screenshots:
 landing page on laptop
 ![landing1](ss/landing1.png)
