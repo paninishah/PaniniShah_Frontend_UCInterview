@@ -260,7 +260,6 @@ body {
   flex-wrap: wrap;
 }
 
-/* Feedback, links, and footer placeholders */
 .feed, .links {
   width: 100%;
   max-width: 1200px;
@@ -278,7 +277,6 @@ body {
   border-radius: 16px;
 }
 
-/* Responsive */
 @media (max-width: 1024px) {
   .unlock {
     flex-direction: column;
